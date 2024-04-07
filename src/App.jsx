@@ -13,12 +13,18 @@ function App() {
 
   return (
     <>
-    <Navbar/>
-    <HeroSec/>
-    <Head title="Why Able Innovation Exists"/>
-    <SubHero1/>
-    <Head title="Our Innovation"/>
-    <SubHero2/>
+      <Navbar />
+      <HeroSec />
+      <Head title="Why Able Innovation Exists" />
+      <SubHero1 />
+      <Head title="Our Innovation" />
+      <SubHero2 />
+      <Head title="How Able Glasses Work" />
+      <div className="video flex justify-center items-center bg-[#5bc4a1] px-5 py-5">
+        <video className='rounded-lg w-[60%] h-[60%]' src="src/assets/Home 1 - AI Chat Bot - Google Chrome 2024-03-02 12-35-30.mp4"></video>
+      </div>
+      <Head title="Our Supporters" />
+      
     </>
   )
 }
