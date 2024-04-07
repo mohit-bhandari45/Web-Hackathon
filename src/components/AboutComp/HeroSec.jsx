@@ -12,8 +12,8 @@ const HeroSec = () => {
                 </div>
 
             </div>
-            <div className="subheading bg-[#efe6da] text-center text-4xl py-20 px-14 font-bold">
-                Our mission is to make Information, Education & Entertainment accessible through Smart Wearable Solutions.
+            <div className="subheading bg-[#efe6da] text-center text-[28px] py-14 font-bold">
+                "Our mission is to make Information, Education & Entertainment accessible through Smart Wearable Solutions."
             </div>
         </>
     )
