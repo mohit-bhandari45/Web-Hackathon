@@ -10,9 +10,9 @@ const Body = () => {
                     <h1 className='heading text-[80px] font-bold'>Aid Glasses for</h1>
                 </div>
                 <div className="spans pl-2 font-bold text-white font-sans flex justify-start gap-10 text-2xl w-[44vw]">
-                    <div className='border-none text-black rounded-full bg-white px-8 py-2'><span>Deaf</span></div>
-                    <div className='border-none text-black rounded-full bg-white px-8 py-2'><span>Mute</span></div>
-                    <div className='border-none text-black rounded-full bg-white px-8 py-2'><span>Blind</span></div>
+                    <div className='border-none rounded-full py-2'><span>Deaf</span></div>
+                    <div className='border-none rounded-full py-2'><span>Mute</span></div>
+                    <div className='border-none rounded-full py-2'><span>Blind</span></div>
                 </div>
                 <div className="button py-4"><button className='cursor-pointer border font-bold rounded-2xl px-10 py-3 text-xl'>Get Early Access</button></div>
             </div>

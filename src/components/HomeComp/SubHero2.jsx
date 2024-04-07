@@ -3,7 +3,7 @@ import Card from './Card'
 
 const SubHero2 = () => {
   return (
-    <div className='bg-[#86a48e] py-20 flex flex-col gap-20'>
+    <div className='bg-[#61ba9c] py-20 flex flex-col gap-20'>
       <div className="text w-[90%] mx-auto flex flex-col justify-center items-center font-[Helvetica] gap-5">
         <div className="1 text-center text-4xl font-bold">Able glasses aims to provide smart aid glasses for Deaf, Mute and Blind.</div>
         {/* <div className="subtext flex w-[100%] px-16 gap-12 justify-start items-start"> */}
