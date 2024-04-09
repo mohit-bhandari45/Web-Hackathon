@@ -22,7 +22,7 @@ function App() {
       <Head title="Our Innovation" />
       <SubHero2 />
       <Head title="How Able Glasses Work" />
-      <div className="video flex justify-center items-center px-5 py-5 bg-[#5ad3bd]">
+      <div className="video flex justify-center items-center px-5 py-10 bg-[#5ad3bd]">
         <video className='rounded-lg w-[55%] h-[55%]' src="src/assets/Home 1 - AI Chat Bot - Google Chrome 2024-03-02 12-35-30.mp4"></video>
       </div>
       <Head title="Our Supporters" />
